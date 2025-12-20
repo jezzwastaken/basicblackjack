@@ -1,2 +1,2 @@
 # basicblackjack
-Basic strategy trainer for blackjack players.
+pro blackjack trainer for blackjack players
