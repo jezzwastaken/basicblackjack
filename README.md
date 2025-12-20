@@ -1,2 +1,2 @@
-# basicblackjack
-pro blackjack trainer for blackjack players
+# blackjack pro trainer
+blackjack pro trainer for blackjack players
